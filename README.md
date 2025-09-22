@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFE3ESWyEkyxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729359079720?e=1747267200&v=beta&t=O_qDBSZpfLA9-PikXhDCOEEp9q8SARgPxkJr-GIVXF0" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQFE3ESWyEkyxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729359079720?e=1747267200&v=beta&t=O_qDBSZpfLA9-PikXhDCOEEp9q8SARgPxkJr-GIVXF0](https://lh3.googleusercontent.com/gg-dl/AJfQ9KT_fHpXNYWTYcKNAAF8bTOFYvkiBTlpAnEpRv3xIzLC-_cLoZXZAj6SkbPU9S9X0pwkX7EDm7SERsWwrCTy_fx4n6uIU5iZeeb_aSQp5a9rIjfumPPSWiSY1xo8yysY9v3gBH22lb4rjjkvPE-Bh1h99jn5tXwAuJKpFbqE4qzedQxT=s1024)" width="100%" />
 
 # 👋 Hey there! I'm Srikanth Merugu  
 🚀 **Frontend Developer | Aspiring Full-Stack Developer**  
